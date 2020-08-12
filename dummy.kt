@@ -1,3 +1,5 @@
 fun main() {
-  println("this is kotlin")
+  val name = "janek"
+  val platform = "github
+  println("this is kotlin used by $name used on $github")
 }
